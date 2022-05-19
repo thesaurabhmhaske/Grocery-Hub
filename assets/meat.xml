@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" version="2.0" href="meat.xsl"?>
+
+<meats>
+    <meat>
+        <name>Chicken</name>
+        <price>400 per kg</price>
+        <benefits>Eating chicken can help to build stronger muscles and promote healthier bones, decreasing the risk of injuries and diseases such as osteoporosis.</benefits>
+        <discount>50%</discount>
+    </meat>
+    <meat>
+        <name>Mutton</name>
+        <price>808.00 per kg</price>
+        <benefits>Mutton Improves the Brain Functions, Boosts the Immune System, Helps Prevent Diabetes, Can Reduce Asthma.</benefits>
+        <discount>10%</discount>
+    </meat>
+    <meat>
+        <name>Turkey</name>
+        <price>2900.00 per kg</price>
+        <benefits>Turkey is a great source of protein. The body uses protein to build and repair bones, muscles, cartilage, skin, blood, and tissue.</benefits>
+        <discount>5%</discount>
+    </meat>
+    <meat>
+        <name>Pork</name>
+        <price>350.00 per kg</price>
+        <benefits>Vitamin B6 present in pork meat helps in metabolism of fats, proteins and carbohydrates and keeps proper functioning of the nervous system</benefits>
+        <discount>12.5%</discount>
+    </meat>
+    <meat>
+        <name>Rohu Fish</name>
+        <price>224.50 per kg</price>
+        <benefits>It is a full of package of  protein, omega-3 fatty acids, and low in fat, vitamins A, B, and C.</benefits>
+        <discount>50%</discount>
+    </meat>
+    <meat>
+        <name>Eggs(4*6pcs)</name>
+        <price>300.00 per unit</price>
+        <benefits>Eggs contain the antioxidants selenium, lutein, and zeaxanthin. Scientists aren’t exactly sure what antioxidants do, but many believe they protect the body from unstable atoms that can damage cells and speed up the aging process.</benefits>
+        <discount>12%</discount>
+    </meat>
+    <meat>
+        <name>Lambs</name>
+        <price>600.00 per kg</price>
+        <benefits>Lamb is a nutrient-dense food, and it is rich in protein, vitamins and essential minerals.</benefits>
+        <discount>42%</discount>
+    </meat>
+    <meat>
+        <name>Beef</name>
+        <price>324.76 per kg</price>
+        <benefits>Beef is an excellent source of iron. The iron in beef helps your body produce hemoglobin, a protein that helps your blood carry oxygen from your lungs to the rest of your body.</benefits>
+        <discount>3.94%</discount>
+    </meat>
+    <meat>
+        <name>Venison</name>
+        <price>250.00 per kg</price>
+        <benefits>Venison has less cholesterol content than turkey and chicken and is also incredibly low in saturated fats. So the more you eat, the better your body will be able to regulate your blood cholesterol levels, keeping bad cholesterol at bay. 13</benefits>
+        <discount>9%</discount>
+    </meat>
+    <meat>
+        <name>Duck</name>
+        <price>350.00 per kg</price>
+        <benefits>Duck has proven to be an excellent source of iron, which is essential in the production of hemoglobin, a base part of red blood cells.</benefits>
+        <discount>17%</discount>
+    </meat>
+    <meat>
+        <name>Wild Boar</name>
+        <price>400.00 per kg</price>
+        <benefits>Wild Boar high in protein. They are a good source of monounsaturated fats and zinc. Rich in Iron. Low in Sodium. Rich in Niacine. Rich in Selenium.</benefits>
+        <discount>0%</discount>
+    </meat>
+    <meat>
+        <name>Bison</name>
+        <price>300.00 per kg</price>
+        <benefits>Bison is as nutrient-dense as red meat, it is similar to white meat regarding its calorie and fat content.</benefits>
+        <discount>27%</discount>
+    </meat>
+    <meat>
+        <name>Goose</name>
+        <price>3000.00 per kg</price>
+        <benefits> Goose is an excellent source of protein. If you are going for protein density, then skinless goose meat provides an impressive 22.8 grams of protein per 100 grams</benefits>
+        <discount>45%</discount>
+    </meat>
+    <meat>
+        <name>Rabbit</name>
+        <price>225.00 per kg</price>
+        <benefits> It contains large amount of proteins which is good for those who follows high protein diet</benefits>
+        <discount>22%</discount>
+    </meat>
+    <meat>
+        <name>Pheasant</name>
+        <price>75.00 per peice</price>
+        <benefits>It includes varying levels of protein, fiber, and vitamins, and additional properties such as antioxidant, anti-inflammatory, and being good for heart health.</benefits>
+        <discount>31%</discount>
+    </meat>
+</meats>

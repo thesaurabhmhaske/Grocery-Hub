@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" version="2.0" href="vegetable.xsl"?>
+
+<vegetables>
+    <vegetable>
+        <name>Cauliflower</name>
+        <price>40.00 per kg</price>
+        <benefits>The health benefits of cauliflower include a reduced risk of cancer, heart and brain disorders, relief from indigestion, detoxification of the body, increased iron absorption, and weight loss</benefits>
+        <discount>5%</discount>
+    </vegetable>
+    <vegetable>
+        <name>Capsicum</name>
+        <price>60.00 per kg</price>
+        <benefits>The health benefits of capsicum include relief from stomach issues, back pain, muscle spasms, headaches, skin aging, peptic ulcers, menopausal problems, lower risk of cardiovascular diseases, and diabetes</benefits>
+        <discount>15%</discount>
+    </vegetable>
+    <vegetable>
+        <name>Tomato</name>
+        <price>40.00 per kg</price>
+        <benefits>Tomatoes are the major dietary source of the antioxidant lycopene, which has been linked to many health benefits, including reduced risk of heart disease and cancer.</benefits>
+        <discount>17.5%</discount>
+    </vegetable>
+    <vegetable>
+        <name>Onion</name>
+        <price>55.50 per kg</price>
+        <benefits>Onions are nutrient-dense, meaning they’re low in calories but high in vitamins and minerals.</benefits>
+        <discount>7.75%</discount>
+    </vegetable>
+    <vegetable>
+        <name>Eggplant</name>
+        <price>45.00 per kg</price>
+        <benefits>Eggplants are a nutrient-dense food, meaning they contain a good amount of vitamins, minerals and fiber in few calories.</benefits>
+        <discount>30%</discount>
+    </vegetable>
+    <vegetable>
+        <name>Organic Carrot</name>
+        <price>100.00 per kg</price>
+        <benefits>Carrots also promote a strong immune system and contain phytochemicals that may protect against heart disease and certain cancers</benefits>
+        <discount>2%</discount>
+    </vegetable>
+    <vegetable>
+        <name>Pumpkin</name>
+        <price>30.00 per kg</price>
+        <benefits>Eating pumpkin is good for the heart. The fiber, potassium, and vitamin C content in pumpkin all support heart health.</benefits>
+        <discount>25%</discount>
+    </vegetable>
+    <vegetable>
+        <name>Pea</name>
+        <price>80.00 per kg</price>
+        <benefits> The high concentration of vitamins, minerals, antioxidants, and phytonutrients in peas provides important health benefits that range from keeping your eyes healthy to protecting you</benefits>
+        <discount>20%</discount>
+    </vegetable>
+    <vegetable>
+        <name>Corn</name>
+        <price>70.00 per kg</price>
+        <benefits>Diabetes management and prevention of chronic heart conditions, lower blood pressure, and also reduction in the neural-tube defects at birth. </benefits>
+        <discount>14%</discount>
+    </vegetable>
+    <vegetable>
+        <name>Spinach</name>
+        <price>130.00 per kg</price>
+        <benefits>Eating spinach may benefit eye health, reduce oxidative stress, help prevent cancer, and reduce blood pressure levels.</benefits>
+        <discount>42%</discount>
+    </vegetable>
+    <vegetable>
+        <name>Turnip</name>
+        <price>65.00 per kg</price>
+        <benefits>Raw turnips contain a range of vitamins and minerals that benefit your health. Turnip root provides a rich source of vitamin C, an antioxidant vitamin that also contributes to the health of your bones and skin. </benefits>
+        <discount>5%</discount>
+    </vegetable>
+    <vegetable>
+        <name>Lettuce</name>
+        <price>90.00 per kg</price>
+        <benefits>The health benefits of lettuce include lower cholesterol levels, protection of neurons, regular sleep, anxiety control, lower inflammation, and a constant supply of antioxidants.</benefits>
+        <discount>10%</discount>
+    </vegetable>
+    <vegetable>
+        <name>Ginger</name>
+        <price>120.00 per kg</price>
+        <benefits>It has the ability to help with arthritis and osteoarthritis, relieve nausea and pain, prevent cancer, improve respiratory conditions, and reduce flatulence. It also helps boost bone health, strengthen the immune system, and increase appetite</benefits>
+        <discount>7%</discount>
+    </vegetable>
+    <vegetable>
+        <name>Raddish</name>
+        <price>40.00 per kg</price>
+        <benefits>Radish health benefits includes improving detoxification, can help decrease piles, can improve urinary system, help boost weight loss, lowers oxidative stress, can lower instances of cancerous cells, can help raise bile levels, may help treat the skin, decreases kidney problems, help relieve symptoms associated with dehydration, can improve liver health and can improve breath.</benefits>
+        <discount>18%</discount>
+    </vegetable>
+    <vegetable>
+        <name>Bitter Gourd</name>
+        <price>55.00 per kg</price>
+        <benefits>As a rich source of antioxidants, flavonoids, and other polyphenol compounds, bitter gourd may help to reduce your risks for a number of health issues.</benefits>
+        <discount>8%</discount>
+    </vegetable>
+    <vegetable>
+        <name>Corriander</name>
+        <price>20.00 per kg</price>
+        <benefits>Usedin the treatment of skin inflammation, high cholesterol levels, diarrhea, mouth ulcers, anemia, and indigestion.</benefits>
+        <discount>0%</discount>
+    </vegetable>
+</vegetables>

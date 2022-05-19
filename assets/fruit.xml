@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" version="2.0" href="fruit.xsl"?>
+
+<fruits>
+    <fruit>
+        <name>Organic Apple</name>
+        <price>124.50 per kg</price>
+        <benefits>Apples are extremely rich in important antioxidants, flavanoids, and dietary fiber.</benefits>
+        <discount>50%</discount>
+    </fruit>
+    <fruit>
+        <name>Organic Orange</name>
+        <price>63.00 per kg</price>
+        <benefits>Oranges are water-rich,provide gut- and health-protective fiber,have high vitamin C and supply other key nutrients.</benefits>
+        <discount>20%</discount>
+    </fruit>
+    <fruit>
+        <name>Organic Banana</name>
+        <price>45.2 per kg</price>
+        <benefits>Bananas are known to reduce swelling, protect against developing Type 2 diabetes, aid in weight loss, strengthen the nervous system and help with production of white blood cells, all due to the high level of vitamin B6 that bananas contain</benefits>
+        <discount>10.40%</discount>
+    </fruit>
+    <fruit>
+        <name>Organic Grapes</name>
+        <price>115.50 per kg</price>
+        <benefits>Grapes are a storehouse of health! They are rich in vitamins A, C, B6, phosphorus, magnesium folate, potassium, calcium, iron, and selenium. Grapes have high nutrient content that ensures a healthy and active life.</benefits>
+        <discount>3.75%</discount>
+    </fruit>
+    <fruit>
+        <name>Musk Melon</name>
+        <price>33.00 per kg</price>
+        <benefits>Melon contains high amounts of sodium, vitamin A, folic acid, niacin, and vitamin C.</benefits>
+        <discount>7.5%</discount>
+    </fruit>
+    <fruit>
+        <name>Pineapple</name>
+        <price>30.00 per kg</price>
+        <benefits>Pineapples decreases the risk of obesity, overall mortality, diabetes, and heart disease. It also promotes a healthy complexion and hair, increased energy, and an overall lower weight</benefits>
+        <discount>25%</discount>
+    </fruit>
+    <fruit>
+        <name>Blackberry</name>
+        <price>250.00 per kg</price>
+        <benefits>Health benefits of blackberry include better digestive health, strengthened immune defense, healthy functioning of the heart, prevention of cancer, and relief from endothelial dysfunction.</benefits>
+        <discount>22%</discount>
+    </fruit>
+    <fruit>
+        <name>Blueberry</name>
+        <price>349.00 per kg</price>
+        <benefits> Blueberries can help heart health, bone strength, skin health, blood pressure, diabetes management, cancer prevention, and mental health.</benefits>
+        <discount>35%</discount>
+    </fruit>
+    <fruit>
+        <name>Cherry</name>
+        <price>149.00 per kg</price>
+        <benefits>Cherries are a good source of fibre, vitamins and minerals, including potassium, calcium, vitamin A and folic acid. They are also well known for their antioxidant properties. </benefits>
+        <discount>17%</discount>
+    </fruit>
+    <fruit>
+        <name>Jackfruit</name>
+        <price>550.00 per kg</price>
+        <benefits>Jackfruit may have the potential to reduce the risk of heart disease due to its content of potassium, fiber and antioxidants</benefits>
+        <discount>5%</discount>
+    </fruit>
+    <fruit>
+        <name>Guava</name>
+        <price>90.00 per kg</price>
+        <benefits>It provides a lot of health and beauty benefits because of the number of essential nutrients like vitamins, minerals, antioxidants, phytonutrients, etc. present in it.</benefits>
+        <discount>6%</discount>
+    </fruit>
+    <fruit>
+        <name>Kiwi</name>
+        <price>180.00 per kg</price>
+        <benefits>Kiwis are small fruits that pack a lot of flavor and plenty of health benefits. Their green flesh is sweet and tangy. Its also full of nutrients like vitamin C, vitamin K, vitamin E, folate, and potassium</benefits>
+        <discount>27%</discount>
+    </fruit>
+    <fruit>
+        <name>Plum</name>
+        <price>100.00 per kg</price>
+        <benefits>Ideal for Weight Loss,Promotes Blood Flow,Promotes Cellular Health,Nutritious for Pregnant Women</benefits>
+        <discount>18%</discount>
+    </fruit>
+</fruits>

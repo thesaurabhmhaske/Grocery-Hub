@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" version="2.0" href="juice.xsl"?>
+
+<juices>
+    <juice>
+        <name>Real Pomegranate juice(1 L)</name>
+        <price>108.00 per bottle</price>
+        <benefits>Réal Fruit Power has been the preferred choice of
+            consumers when it comes to packaged Fruit juices, and it has made Réal Fruit Power the No. 1 juice
+            brand in India.</benefits>
+        <discount>10%</discount>
+    </juice>
+    <juice>
+        <name>Real Guava juice(1 L)</name>
+        <price>95.00 per bottle</price>
+        <benefits>Réal Fruit Power has been the preferred choice of
+            consumers when it comes to packaged Fruit juices, and it has made Réal Fruit Power the No. 1 juice
+            brand in India.</benefits>
+        <discount>9%</discount>
+    </juice>
+    <juice>
+        <name>Real Mixed fruit juice(1 L)</name>
+        <price>92.00 per bottle</price>
+        <benefits>Réal Fruit Power has been the preferred choice of
+            consumers when it comes to packaged Fruit juices, and it has made Réal Fruit Power the No. 1 juice
+            brand in India.</benefits>
+        <discount>16%</discount>
+    </juice>
+    <juice>
+        <name>Slice(1.75 L)</name>
+        <price>74.00 per bottle</price>
+        <benefits>The juice provides you much Vitamin C. So, health benefits of mango juice for lowering cholesterol is huge enough.</benefits>
+        <discount>17%</discount>
+    </juice>
+    <juice>
+        <name>Tetrapack Milk(1 L)</name>
+        <price>64.5 per bottle</price>
+        <benefits>Tetrapack milk is an ideal option for packaged milk as it eliminates the chances of adulteration due to its absolutely hygienic processing and packaging methods.</benefits>
+        <discount>7.9%</discount>
+    </juice>
+    <juice>
+        <name>Maaza(1.2 L)</name>
+        <price>64 per bottle</price>
+        <benefits>This contains mangoes which have certain antioxidants that serve as protection against prostate cancer, leukemia, colon, and breast cancer.</benefits>
+        <discount>8.00%</discount>
+    </juice>
+    <juice>
+        <name>Minute Maid(1 L)</name>
+        <price>69.00 per bottle</price>
+        <benefits>It is positioned as a healthy drink containing calcium,potassium, and folate.</benefits>
+        <discount>8%</discount>
+    </juice>
+    <juice>
+        <name>Paper Boat juice(1 L)</name>
+        <price>73.00 per bottle</price>
+        <benefits>It's an instant energy booster, and its melon seeds are full of protein, iron, and vitamins.</benefits>
+        <discount>33%</discount>
+    </juice>
+    <juice>
+        <name>Tropicana Mixed Fruit(1 L)</name>
+        <price>88.00 per bottle</price>
+        <benefits>Tropicana 100% Mixed fruit juice has no added sugar for a healthy you. With no added preservatives, color or artificial flavouring</benefits>
+        <discount>20%</discount>
+    </juice>
+    <juice>
+        <name>Priyagold Litchi(1 L)</name>
+        <price>64.00 per bottle</price>
+        <benefits>It conatins lithcis which have a high nutritional value. They are very rich in vitamin C, containing about 71.5 mg per 100 grams. They are also rich in copper and phosphorus</benefits>
+        <discount>41%</discount>
+    </juice>
+    <juice>
+        <name>Appy(150 mL)</name>
+        <price>10.00 per bottle</price>
+        <benefits>When apples are juiced, their hydrating quality is maximized, and some plant compounds are retained.</benefits>
+        <discount>0%</discount>
+    </juice>
+    <juice>
+        <name>Patanjali Aloe Vera juice(1 L)</name>
+        <price>200.00 per bottle</price>
+        <benefits>Aloe Vera with wheatgrass juice and other products are beneficial for skin as well as a strengthening of the body. </benefits>
+        <discount>0%</discount>
+    </juice>
+    <juice>
+        <name>Del Monte Mixed Fruit juice(1 L)</name>
+        <price>70.00 per bottle</price>
+        <benefits>Filled with the Goodness of antioxidants, Del Monte 100% Mixed Fruit Juice,with added Vitamins A-C-E</benefits>
+        <discount>0%</discount>
+    </juice>
+    <juice>
+        <name>Raw Pressery Cocout Water(200 mL)</name>
+        <price>60.00 per bottle</price>
+        <benefits>Low in calories,The ultimate pick me up,Hangover Cure and Prevents UTI</benefits>
+        <discount>0%</discount>
+    </juice>
+</juices>
